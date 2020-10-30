@@ -3,4 +3,5 @@ This is a timer using an RGB LED ring as a display. Time is encoded by the numbe
 Here is a short demo:  
 https://www.bilibili.com/video/BV1BA411E7JS/  
 
-I will update the code and circuit diagram soon!!!
+Circuit diagram:  
+<img src="pics/timer diagram-s.png">
